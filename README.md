@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Sardor
 #### I am a Frontend developer
-![I am a Frontend developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 My coding experience is based on mainly frontend developent. I love to learn things like modern web-technology belongs to my field. I personally like to code every single projact with React, and in designing stuff is most preferable FIGMA for my choice
 
